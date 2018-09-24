@@ -1,0 +1,5 @@
+# python
+All python code
+import socket
+hostname = socket.gethostname()
+    print hostname
